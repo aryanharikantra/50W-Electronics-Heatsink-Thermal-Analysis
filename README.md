@@ -21,5 +21,4 @@ The objective is to investigate the heatsink's thermal performance under natural
 ## Project Status
 In progress.
 
-## Disclaimer
 This is an academic engineering project based on a hypothetical electronics module. The results will depend on the geometry, material properties, and simulation assumptions.
